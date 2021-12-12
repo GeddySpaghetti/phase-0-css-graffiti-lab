@@ -1,1 +1,26 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+  }
+
+#wall div#tag-2 {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
+}
+  
+div#wall #tag-3.slick.wicked{
+    font-family: sans-serif;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+    background: url(../images/tag-3.png) no-repeat;
+    z-index: 5;
+    display: none;
+   
+  
+}
+
